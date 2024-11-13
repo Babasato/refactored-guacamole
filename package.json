@@ -10,13 +10,14 @@
   "dependencies": {
     "gatsby": "^5.0.0",
     "gatsby-plugin-react-helmet": "^6.0.0",
-    "gatsby-plugin-sharp": "^5.0.0",  // Updated version
-    "gatsby-transformer-sharp": "^5.0.0",  // Updated version
+    "gatsby-plugin-sharp": "^5.0.0",
+    "gatsby-transformer-sharp": "^5.0.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
   "engines": {
-    "node": "16.x"  // Specify a compatible Node version
+    "node": "16.x"
   },
   "license": "MIT"
 }
+
